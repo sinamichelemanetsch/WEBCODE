@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "rm -rf public && mkdir public && cp index.html admin.html styles.css script.js admin.css admin.js public/ && cp -R assets data public/ && cp Dock.svg DockWEISS.svg Fenster.svg FensterWhite.svg KREUZ.svg KREUZweiss.svg folder.svg public/"
+  }
+}
