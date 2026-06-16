@@ -1,0 +1,788 @@
+{
+  "settings": {
+    "backgroundImage": "assets/beach-desktop.jpg",
+    "windowBackground": "#ffffff",
+    "windowText": "#202020",
+    "windowBar": "#e0b6b6",
+    "windowAccent": "#ffffff"
+  },
+  "projects": [
+    {
+      "id": "fang-series",
+      "title": "Fang Series",
+      "description": "A restored folder from the latest backend uploads.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/uploads/1781122265362-60425334-002fang-kopiewide.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/uploads/1781122265362-60425334-002fang-kopiewide.jpg",
+        "assets/uploads/1781122313354-a86d2a83-002lr.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "red-lr-series",
+      "title": "LR Series",
+      "description": "A recovered sequence of uploaded LR images.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#00a9a8",
+      "titleImage": "assets/uploads/1781122444452-6a7b7ac0-005lr-1.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781122444155-4fad5cad-002lr.jpg",
+        "assets/uploads/1781122444248-d7d4e895-003lr.jpg",
+        "assets/uploads/1781122444337-3b774ca3-004-kopiewide.jpg",
+        "assets/uploads/1781122444452-6a7b7ac0-005lr-1.jpg",
+        "assets/uploads/1781122444656-137ba57b-006lr.jpg",
+        "assets/uploads/1781122444768-972ca324-007lr.jpg",
+        "assets/uploads/1781122444955-775e34bf-008-kopie.jpg",
+        "assets/uploads/1781122444337-3b774ca3-004-kopiewide.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "food-tasting",
+      "title": "Food Tasting",
+      "description": "Portfolio upload recovered from the backend media library.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/uploads/1781124624546-f711f116-portfolio-foodtasting.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781124624546-f711f116-portfolio-foodtasting.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "how-beautiful-i-made-you",
+      "title": "How Beautiful I Made You",
+      "description": "Portfolio upload recovered from the backend media library.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#6bb9b2",
+      "titleImage": "assets/uploads/1781124624802-3438fac5-portfolio-howbeautifulimadeyou.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781124624802-3438fac5-portfolio-howbeautifulimadeyou.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "la-familia-the-beach",
+      "title": "La Familia / The Beach",
+      "description": "A photographic series around bodies, colour and coast.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#b56a74",
+      "titleImage": "assets/uploads/1781124624999-8e282739-portfolio-la-familia---the-beach1.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781124624999-8e282739-portfolio-la-familia---the-beach1.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "masculine-femininity",
+      "title": "Masculine Femininity",
+      "description": "Portfolio upload recovered from the backend media library.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#0aa7a5",
+      "titleImage": "assets/uploads/1781124625138-13893e99-portfolio-masculinefemininity.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781124625138-13893e99-portfolio-masculinefemininity.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "mty-plates",
+      "title": "MTY Plates",
+      "description": "Portfolio upload recovered from the backend media library.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/uploads/1781124625199-60154475-portfolio-mty-plates.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781124625199-60154475-portfolio-mty-plates.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "wet",
+      "title": "Wet",
+      "description": "Portfolio upload recovered from the backend media library.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#00a9a8",
+      "titleImage": "assets/uploads/1781124625390-f512a9e1-portfolio-wet0.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781124625390-f512a9e1-portfolio-wet0.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "portraitweb",
+      "title": "PortraitWEB",
+      "description": "Portrait image recovered from uploaded backend files.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/uploads/1781032509657-7b6a3bc8-portraitweb.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/uploads/1781032509657-7b6a3bc8-portraitweb.jpg",
+        "assets/uploads/1780959068900-356dfbdc-03-1.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "dsc9704",
+      "title": "DSC9704",
+      "description": "Restored single-image project.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#6bb9b2",
+      "titleImage": "assets/uploads/1781130571643-25c979ee-_dsc9704.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/uploads/1781130571643-25c979ee-_dsc9704.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "dsc-series-one",
+      "title": "DSC Series I",
+      "description": "Recovered sequence from the latest backend uploads.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#b56a74",
+      "titleImage": "assets/uploads/1781131667162-8df19b32-_dsc9701.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/uploads/1781131667162-8df19b32-_dsc9701.jpg",
+        "assets/uploads/1781131668020-ccf59556-_dsc9759.jpg",
+        "assets/uploads/1781131669024-fbd09886-_dsc9784.jpg",
+        "assets/uploads/1781131670011-c908ccf6-_dsc9786.jpg",
+        "assets/uploads/1781131670914-d11230da-_dsc9808.jpg",
+        "assets/uploads/1781131671812-13cd04c5-_dsc9883.jpg",
+        "assets/uploads/1781131672713-84100e26-details.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "dsc-series-two",
+      "title": "DSC Series II",
+      "description": "Recovered sequence from the latest backend uploads.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#0aa7a5",
+      "titleImage": "assets/uploads/1781131726176-ca371fe4-_dsc9701.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/uploads/1781131726176-ca371fe4-_dsc9701.jpg",
+        "assets/uploads/1781131727020-8cc00e16-_dsc9759.jpg",
+        "assets/uploads/1781131728024-327087cd-_dsc9784.jpg",
+        "assets/uploads/1781131728981-f86c9b85-_dsc9786.jpg",
+        "assets/uploads/1781131729882-f7508ed7-_dsc9883.jpg",
+        "assets/uploads/1781131730764-8df1cc00-details.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "red-studio-series",
+      "title": "Red Studio Series",
+      "description": "Recovered sequence from the latest backend uploads.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/uploads/1781131973726-a5ffcf23-_dsc9678.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/uploads/1781131973726-a5ffcf23-_dsc9678.jpg",
+        "assets/uploads/1781131974437-c1ec9848-_dsc9690.jpg",
+        "assets/uploads/1781131975000-3d45af38-_dsc9713.jpg",
+        "assets/uploads/1781131975509-0ced3628-_dsc9715.jpg",
+        "assets/uploads/1781131956543-2649594f-_dsc9736.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "serie-auto",
+      "title": "Serie Auto",
+      "description": "Recovered automotive image sequence from the latest backend uploads.",
+      "short": "Recovered from uploaded image files.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/uploads/1781132017035-d2fa08fd-serieauto.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/uploads/1781132007202-6f1fefde-_dsc9729.jpg",
+        "assets/uploads/1781132007758-34c6e1cc-_dsc9730.jpg",
+        "assets/uploads/1781132008365-bba271ef-_dsc9731.jpg",
+        "assets/uploads/1781132008962-c29d92b2-_dsc9744.jpg",
+        "assets/uploads/1781132009533-0ed0b4ed-_dsc9762.jpg",
+        "assets/uploads/1781132010105-c5581a9c-_dsc9782.jpg",
+        "assets/uploads/1781132010694-3178213f-_dsc9787.jpg",
+        "assets/uploads/1781132011298-d8dcdd59-_dsc9792.jpg",
+        "assets/uploads/1781132011860-0c6e13c3-_dsc9800.jpg",
+        "assets/uploads/1781132012459-4345620b-_dsc9834.jpg",
+        "assets/uploads/1781132013013-e2cd4956-_dsc9846.jpg",
+        "assets/uploads/1781132013541-f0faaf05-_dsc9868.jpg",
+        "assets/uploads/1781132014118-2aa91ed9-_dsc9878.jpg",
+        "assets/uploads/1781132014675-f2f76a39-_dsc9901.jpg",
+        "assets/uploads/1781132015228-2cadfcc0-_dsc9902.jpg",
+        "assets/uploads/1781132015806-a3e9a52f-_dsc9923.jpg",
+        "assets/uploads/1781132016409-a8a2b284-_dsc9929.jpg",
+        "assets/uploads/1781132017035-d2fa08fd-serieauto.jpg"
+      ],
+      "videos": []
+    }
+  ],
+  "pages": {
+    "about": {
+      "kicker": "SINA MICHELE MANETSCH",
+      "title": "Visual culture, photography and image worlds.",
+      "body": "A portfolio desktop for projects, series, contact information and notes.",
+      "photo": "assets/about-portrait-webtext-srgb.jpg"
+    },
+    "contact": {
+      "title": "Contact",
+      "body": "Click any item to copy it.",
+      "name": "Sina Michèle Manetsch",
+      "email": "hello@example.com",
+      "photo": "",
+      "items": [
+        {
+          "label": "Email",
+          "value": "hello@example.com",
+          "href": "mailto:hello@example.com"
+        },
+        {
+          "label": "Instagram",
+          "value": "@sinamichele",
+          "href": "https://instagram.com/"
+        },
+        {
+          "label": "Location",
+          "value": "Zurich / Paris",
+          "href": ""
+        }
+      ]
+    }
+  },
+  "blog": [
+    {
+      "id": "uhr",
+      "title": "Uhr",
+      "excerpt": "",
+      "date": "2026-06-09",
+      "category": "Journal",
+      "author": "Sina Michèle Manetsch",
+      "body": "",
+      "image": "assets/uploads/1781124624546-f711f116-portfolio-foodtasting.jpg",
+      "titleImage": "",
+      "secondImage": "",
+      "youtube": "",
+      "template": "editorial",
+      "fontFamily": "serif",
+      "titleSize": 46,
+      "bodySize": 16,
+      "imageScale": 100,
+      "imagePosition": "center"
+    },
+    {
+      "id": "field-note-portrait",
+      "title": "fcjghbéijkn",
+      "excerpt": "zrfcvbljhknmk",
+      "date": "2026-06-09",
+      "category": "Journal",
+      "author": "Sina Michèle Manetsch",
+      "body": "Write new blog posts in the backend. Add images whenever needed.",
+      "image": "assets/uploads/1780959068900-356dfbdc-03-1.jpg",
+      "titleImage": "",
+      "secondImage": "",
+      "youtube": "",
+      "template": "editorial",
+      "fontFamily": "serif",
+      "titleSize": 46,
+      "bodySize": 16,
+      "imageScale": 100,
+      "imagePosition": "center"
+    }
+  ],
+  "media": [
+    {
+      "id": "media-1781132017035-d2fa08fd-serieauto",
+      "name": "serieauto.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132017035-d2fa08fd-serieauto.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:37.035Z"
+    },
+    {
+      "id": "media-1781132016409-a8a2b284-_dsc9929",
+      "name": "_dsc9929.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132016409-a8a2b284-_dsc9929.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:36.409Z"
+    },
+    {
+      "id": "media-1781132015806-a3e9a52f-_dsc9923",
+      "name": "_dsc9923.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132015806-a3e9a52f-_dsc9923.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:35.806Z"
+    },
+    {
+      "id": "media-1781132015228-2cadfcc0-_dsc9902",
+      "name": "_dsc9902.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132015228-2cadfcc0-_dsc9902.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:35.228Z"
+    },
+    {
+      "id": "media-1781132014675-f2f76a39-_dsc9901",
+      "name": "_dsc9901.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132014675-f2f76a39-_dsc9901.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:34.675Z"
+    },
+    {
+      "id": "media-1781132014118-2aa91ed9-_dsc9878",
+      "name": "_dsc9878.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132014118-2aa91ed9-_dsc9878.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:34.118Z"
+    },
+    {
+      "id": "media-1781132013541-f0faaf05-_dsc9868",
+      "name": "_dsc9868.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132013541-f0faaf05-_dsc9868.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:33.541Z"
+    },
+    {
+      "id": "media-1781132013013-e2cd4956-_dsc9846",
+      "name": "_dsc9846.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132013013-e2cd4956-_dsc9846.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:33.013Z"
+    },
+    {
+      "id": "media-1781132012459-4345620b-_dsc9834",
+      "name": "_dsc9834.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132012459-4345620b-_dsc9834.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:32.459Z"
+    },
+    {
+      "id": "media-1781132011860-0c6e13c3-_dsc9800",
+      "name": "_dsc9800.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132011860-0c6e13c3-_dsc9800.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:31.860Z"
+    },
+    {
+      "id": "media-1781132011298-d8dcdd59-_dsc9792",
+      "name": "_dsc9792.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132011298-d8dcdd59-_dsc9792.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:31.298Z"
+    },
+    {
+      "id": "media-1781132010694-3178213f-_dsc9787",
+      "name": "_dsc9787.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132010694-3178213f-_dsc9787.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:30.694Z"
+    },
+    {
+      "id": "media-1781132010105-c5581a9c-_dsc9782",
+      "name": "_dsc9782.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132010105-c5581a9c-_dsc9782.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:30.105Z"
+    },
+    {
+      "id": "media-1781132009533-0ed0b4ed-_dsc9762",
+      "name": "_dsc9762.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132009533-0ed0b4ed-_dsc9762.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:29.533Z"
+    },
+    {
+      "id": "media-1781132008962-c29d92b2-_dsc9744",
+      "name": "_dsc9744.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132008962-c29d92b2-_dsc9744.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:28.962Z"
+    },
+    {
+      "id": "media-1781132008365-bba271ef-_dsc9731",
+      "name": "_dsc9731.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132008365-bba271ef-_dsc9731.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:28.365Z"
+    },
+    {
+      "id": "media-1781132007758-34c6e1cc-_dsc9730",
+      "name": "_dsc9730.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132007758-34c6e1cc-_dsc9730.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:27.758Z"
+    },
+    {
+      "id": "media-1781132007202-6f1fefde-_dsc9729",
+      "name": "_dsc9729.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781132007202-6f1fefde-_dsc9729.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:53:27.202Z"
+    },
+    {
+      "id": "media-1781131975509-0ced3628-_dsc9715",
+      "name": "_dsc9715.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131975509-0ced3628-_dsc9715.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:52:55.509Z"
+    },
+    {
+      "id": "media-1781131975000-3d45af38-_dsc9713",
+      "name": "_dsc9713.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131975000-3d45af38-_dsc9713.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:52:55.000Z"
+    },
+    {
+      "id": "media-1781131974437-c1ec9848-_dsc9690",
+      "name": "_dsc9690.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131974437-c1ec9848-_dsc9690.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:52:54.437Z"
+    },
+    {
+      "id": "media-1781131973726-a5ffcf23-_dsc9678",
+      "name": "_dsc9678.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131973726-a5ffcf23-_dsc9678.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:52:53.726Z"
+    },
+    {
+      "id": "media-1781131956543-2649594f-_dsc9736",
+      "name": "_dsc9736.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131956543-2649594f-_dsc9736.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:52:36.543Z"
+    },
+    {
+      "id": "media-1781131730764-8df1cc00-details",
+      "name": "details.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131730764-8df1cc00-details.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:48:50.764Z"
+    },
+    {
+      "id": "media-1781131729882-f7508ed7-_dsc9883",
+      "name": "_dsc9883.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131729882-f7508ed7-_dsc9883.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:48:49.882Z"
+    },
+    {
+      "id": "media-1781131728981-f86c9b85-_dsc9786",
+      "name": "_dsc9786.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131728981-f86c9b85-_dsc9786.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:48:48.981Z"
+    },
+    {
+      "id": "media-1781131728024-327087cd-_dsc9784",
+      "name": "_dsc9784.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131728024-327087cd-_dsc9784.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:48:48.024Z"
+    },
+    {
+      "id": "media-1781131727020-8cc00e16-_dsc9759",
+      "name": "_dsc9759.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131727020-8cc00e16-_dsc9759.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:48:47.020Z"
+    },
+    {
+      "id": "media-1781131726176-ca371fe4-_dsc9701",
+      "name": "_dsc9701.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131726176-ca371fe4-_dsc9701.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:48:46.176Z"
+    },
+    {
+      "id": "media-1781131672713-84100e26-details",
+      "name": "details.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131672713-84100e26-details.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:52.713Z"
+    },
+    {
+      "id": "media-1781131671812-13cd04c5-_dsc9883",
+      "name": "_dsc9883.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131671812-13cd04c5-_dsc9883.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:51.812Z"
+    },
+    {
+      "id": "media-1781131670914-d11230da-_dsc9808",
+      "name": "_dsc9808.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131670914-d11230da-_dsc9808.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:50.914Z"
+    },
+    {
+      "id": "media-1781131670011-c908ccf6-_dsc9786",
+      "name": "_dsc9786.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131670011-c908ccf6-_dsc9786.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:50.011Z"
+    },
+    {
+      "id": "media-1781131669024-fbd09886-_dsc9784",
+      "name": "_dsc9784.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131669024-fbd09886-_dsc9784.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:49.024Z"
+    },
+    {
+      "id": "media-1781131668020-ccf59556-_dsc9759",
+      "name": "_dsc9759.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131668020-ccf59556-_dsc9759.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:48.020Z"
+    },
+    {
+      "id": "media-1781131667162-8df19b32-_dsc9701",
+      "name": "_dsc9701.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781131667162-8df19b32-_dsc9701.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:47:47.162Z"
+    },
+    {
+      "id": "media-1781130571643-25c979ee-_dsc9704",
+      "name": "_dsc9704.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781130571643-25c979ee-_dsc9704.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T22:29:31.643Z"
+    },
+    {
+      "id": "media-1781124625390-f512a9e1-portfolio-wet0",
+      "name": "portfolio-wet0.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781124625390-f512a9e1-portfolio-wet0.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:50:25.390Z"
+    },
+    {
+      "id": "media-1781124625199-60154475-portfolio-mty-plates",
+      "name": "portfolio-mty-plates.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781124625199-60154475-portfolio-mty-plates.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:50:25.199Z"
+    },
+    {
+      "id": "media-1781124625138-13893e99-portfolio-masculinefemininity",
+      "name": "portfolio-masculinefemininity.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781124625138-13893e99-portfolio-masculinefemininity.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:50:25.138Z"
+    },
+    {
+      "id": "media-1781124624999-8e282739-portfolio-la-familia---the-beach1",
+      "name": "portfolio-la-familia---the-beach1.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781124624999-8e282739-portfolio-la-familia---the-beach1.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:50:24.999Z"
+    },
+    {
+      "id": "media-1781124624802-3438fac5-portfolio-howbeautifulimadeyou",
+      "name": "portfolio-howbeautifulimadeyou.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781124624802-3438fac5-portfolio-howbeautifulimadeyou.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:50:24.802Z"
+    },
+    {
+      "id": "media-1781124624546-f711f116-portfolio-foodtasting",
+      "name": "portfolio-foodtasting.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781124624546-f711f116-portfolio-foodtasting.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:50:24.546Z"
+    },
+    {
+      "id": "media-1781122482068-c5e1f385-004-kopiewide",
+      "name": "004-kopiewide.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122482068-c5e1f385-004-kopiewide.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:42.068Z"
+    },
+    {
+      "id": "media-1781122444955-775e34bf-008-kopie",
+      "name": "008-kopie.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444955-775e34bf-008-kopie.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.955Z"
+    },
+    {
+      "id": "media-1781122444768-972ca324-007lr",
+      "name": "007lr.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444768-972ca324-007lr.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.768Z"
+    },
+    {
+      "id": "media-1781122444656-137ba57b-006lr",
+      "name": "006lr.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444656-137ba57b-006lr.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.656Z"
+    },
+    {
+      "id": "media-1781122444452-6a7b7ac0-005lr-1",
+      "name": "005lr-1.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444452-6a7b7ac0-005lr-1.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.452Z"
+    },
+    {
+      "id": "media-1781122444337-3b774ca3-004-kopiewide",
+      "name": "004-kopiewide.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444337-3b774ca3-004-kopiewide.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.337Z"
+    },
+    {
+      "id": "media-1781122444248-d7d4e895-003lr",
+      "name": "003lr.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444248-d7d4e895-003lr.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.248Z"
+    },
+    {
+      "id": "media-1781122444155-4fad5cad-002lr",
+      "name": "002lr.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122444155-4fad5cad-002lr.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:14:04.155Z"
+    },
+    {
+      "id": "media-1781122313354-a86d2a83-002lr",
+      "name": "002lr.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122313354-a86d2a83-002lr.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:11:53.354Z"
+    },
+    {
+      "id": "media-1781122265362-60425334-002fang-kopiewide",
+      "name": "002fang-kopiewide.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781122265362-60425334-002fang-kopiewide.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-10T20:11:05.362Z"
+    },
+    {
+      "id": "media-1781032509657-7b6a3bc8-portraitweb",
+      "name": "portraitweb.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1781032509657-7b6a3bc8-portraitweb.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-09T19:15:09.657Z"
+    },
+    {
+      "id": "media-1780959068900-356dfbdc-03-1",
+      "name": "03-1.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1780959068900-356dfbdc-03-1.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-08T22:51:08.900Z"
+    },
+    {
+      "id": "media-1780942635120-cf09ff2f-_dsc5493",
+      "name": "_dsc5493.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1780942635120-cf09ff2f-_dsc5493.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-08T18:17:15.120Z"
+    },
+    {
+      "id": "media-1780942527719-8c3c84ea-akt-i4080",
+      "name": "akt-i4080.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1780942527719-8c3c84ea-akt-i4080.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-08T18:15:27.719Z"
+    },
+    {
+      "id": "media-1780942502396-6c70c624-br-140y-book-deluxe-group03",
+      "name": "br-140y-book-deluxe-group03.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1780942502396-6c70c624-br-140y-book-deluxe-group03.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-08T18:15:02.396Z"
+    },
+    {
+      "id": "media-1780942498548-32c3b705-03-1",
+      "name": "03-1.jpg",
+      "type": "image/jpeg",
+      "path": "assets/uploads/1780942498548-32c3b705-03-1.jpg",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-08T18:14:58.548Z"
+    },
+    {
+      "id": "media-1780942444335-745b8b26-alchemyrefiner_alchemymagic_0_e2044b66-2792-4d1b-bd64-7fa017c17058_0",
+      "name": "alchemyrefiner_alchemymagic_0_e2044b66-2792-4d1b-bd64-7fa017c17058_0.webp",
+      "type": "image/webp",
+      "path": "assets/uploads/1780942444335-745b8b26-alchemyrefiner_alchemymagic_0_e2044b66-2792-4d1b-bd64-7fa017c17058_0.webp",
+      "colorSpace": "sRGB",
+      "createdAt": "2026-06-08T18:14:04.335Z"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "settings": {
+    "backgroundImage": "assets/beach-desktop.jpg",
+    "windowBackground": "#ffffff",
+    "windowText": "#202020",
+    "windowBar": "#e0b6b6",
+    "windowAccent": "#ffffff"
+  },
+  "projects": [
+    {
+      "id": "portrait-26",
+      "title": "Portrait26",
+      "description": "Portrait work, studies and selected faces.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/f1-photo.jpg",
+      "imagePosition": "50% 40%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "portfolio-studio",
+      "title": "Portfolio Studio",
+      "description": "Studio experiments, edits and visual systems.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#00a9a8",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "description": "Moving image, tests and short video fragments.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "beach-series",
+      "title": "La Familia / The Beach",
+      "description": "A photographic series around bodies, colour and coast.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/f1-photo.jpg",
+      "imagePosition": "50% 55%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "dance-study",
+      "title": "Dance Study",
+      "description": "Movement research, shadow, gesture and blur.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#00a9a8",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 45%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "archive-notes",
+      "title": "Archive Notes",
+      "description": "Personal references, layouts and collected images.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "color-studies",
+      "title": "Color Studies",
+      "description": "Experiments with palette, surface and atmosphere.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/f1-photo.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "commissions",
+      "title": "Commissions",
+      "description": "Selected client and commissioned work.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#00a9a8",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "editorial",
+      "title": "Editorial",
+      "description": "Image-led stories and publication tests.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "personal-work",
+      "title": "Personal Work",
+      "description": "Open-ended studies and independent series.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#a05d62",
+      "titleImage": "assets/f1-photo.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "research",
+      "title": "Research",
+      "description": "Visual Research",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#00a9a8",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    },
+    {
+      "id": "portfolio-26",
+      "title": "Portfolio26",
+      "description": "Current portfolio selection.",
+      "short": "A selected project folder. Replace text, images, videos and colour in the backend.",
+      "folderColor": "#ff8b00",
+      "titleImage": "assets/beach-desktop.jpg",
+      "imagePosition": "50% 50%",
+      "photos": [
+        "assets/beach-desktop.jpg",
+        "assets/f1-photo.jpg",
+        "assets/background-dancer.jpg"
+      ],
+      "videos": []
+    }
+  ],
+  "pages": {
+    "about": {
+      "kicker": "SINA MICHELE MANETSCH",
+      "title": "Visual culture, photography and image worlds.",
+      "body": "A portfolio desktop for projects, series, contact information and notes.",
+      "photo": ""
+    },
+    "contact": {
+      "title": "Contact",
+      "body": "Click any item to copy it.",
+      "name": "Sina Michèle Manetsch",
+      "email": "hello@example.com",
+      "photo": "",
+      "items": [
+        {
+          "label": "Email",
+          "value": "hello@example.com",
+          "href": "mailto:hello@example.com"
+        },
+        {
+          "label": "Instagram",
+          "value": "@sinamichele",
+          "href": "https://instagram.com/"
+        },
+        {
+          "label": "Location",
+          "value": "Zurich / Paris",
+          "href": ""
+        }
+      ]
+    }
+  },
+  "blog": [
+    {
+      "id": "first-note",
+      "title": "First note",
+      "excerpt": "A small field note.",
+      "date": "",
+      "category": "Journal",
+      "author": "Sina Michele Manetsch",
+      "body": "A small field note.",
+      "image": "",
+      "titleImage": "",
+      "secondImage": "",
+      "youtube": "",
+      "template": "editorial",
+      "fontFamily": "serif",
+      "titleSize": 46,
+      "bodySize": 16,
+      "imageScale": 100,
+      "imagePosition": "center"
+    }
+  ],
+  "media": []
+}
