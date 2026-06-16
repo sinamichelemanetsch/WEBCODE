@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "build": "mkdir -p public && cp -R index.html admin.html styles.css script.js admin.css admin.js assets data *.svg public/"
-  },
-  "devDependencies": {}
-}

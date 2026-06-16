@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sina Michèle Manetsch</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="desktop" id="desktop">
+      <header class="menu-bar" aria-label="Hauptnavigation">
+        <a class="brand" href="#home" data-action="home">Sina Michèle Manetsch</a>
+      </header>
+
+      <button class="settings-toggle" type="button" aria-expanded="false" aria-controls="layout-settings">⚙</button>
+      <aside class="settings-panel" id="layout-settings" aria-label="Ordner Layout Einstellungen">
+        <label>
+          <span>Grid X: <output id="setting-gap-x-value">180</output> px</span>
+          <input id="setting-gap-x" type="range" min="110" max="260" value="180" />
+        </label>
+        <label>
+          <span>Grid Y: <output id="setting-gap-y-value">140</output> px</span>
+          <input id="setting-gap-y" type="range" min="100" max="220" value="140" />
+        </label>
+        <label>
+          <span>Noise X: <output id="setting-noise-x-value">45</output> px</span>
+          <input id="setting-noise-x" type="range" min="0" max="90" value="45" />
+        </label>
+        <label>
+          <span>Noise Y: <output id="setting-noise-y-value">35</output> px</span>
+          <input id="setting-noise-y" type="range" min="0" max="90" value="35" />
+        </label>
+        <label>
+          <span>Folder Size: <output id="setting-size-value">90</output> px</span>
+          <input id="setting-size" type="range" min="58" max="130" value="90" />
+        </label>
+        <label>
+          <span>Seed: <output id="setting-seed-value">1234</output></span>
+          <input id="setting-seed" type="number" min="0" max="999999" value="1234" />
+        </label>
+        <label>
+          <span>Left Margin: <output id="setting-left-margin-value">80</output> px</span>
+          <input id="setting-left-margin" type="range" min="0" max="320" value="80" />
+        </label>
+        <label>
+          <span>Right Margin: <output id="setting-right-margin-value">120</output> px</span>
+          <input id="setting-right-margin" type="range" min="40" max="320" value="120" />
+        </label>
+        <button class="settings-save" type="button">Save current layout as default</button>
+        <button class="settings-export" type="button">Export current layout CSV</button>
+        <button class="settings-generated" type="button">Reset to generated layout</button>
+        <button class="settings-reset" type="button">Reset positions</button>
+      </aside>
+
+      <main class="workspace" id="home">
+        <section class="intro-panel" aria-labelledby="studio-title">
+          <div class="logo-mark">SINA<br />MICHELE</div>
+          <h1 id="studio-title">Sina Michèle Manetsch</h1>
+          <p>Photography, moving image, visual research and selected portfolio work.</p>
+          <p class="status"><span></span>Portfolio desktop is open</p>
+        </section>
+
+        <section class="project-grid" id="projects" aria-label="Projekt-Ordner"></section>
+      </main>
+
+      <footer class="dock" aria-label="Dock Navigation">
+        <button data-open="about" aria-label="About"><span class="dock-icon about-icon"></span><span>ABOUT</span></button>
+        <button data-open="blog" aria-label="Blog"><span class="dock-icon blog-icon"></span><span>BLOG</span></button>
+        <button data-open="contact" aria-label="Contact"><span class="dock-icon contact-icon"></span><span>CONTACT</span></button>
+      </footer>
+    </div>
+
+    <template id="content-template">
+      <section class="window content-window">
+        <div class="window-bar">
+          <div class="traffic"><button data-close></button><button></button><button></button></div>
+          <strong></strong>
+          <div class="window-tools"></div>
+        </div>
+        <div class="window-body"></div>
+      </section>
+    </template>
+
+    <script src="script.js"></script>
+  </body>
+</html>
